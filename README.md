@@ -3,13 +3,17 @@ This repo is used for "Continuous Integration and Testing with JavaScript" works
 
 ## Topics Covered
 
-- This topic is all about the software development cycle with JavaScript. Starting with behaviour driven development and unit testing (e.g. with Mocha), we then take a look at larger-scale integration testing and especially continuous integration strategies (e.g. with Travis). To finish the testing cycle, we take a look at system and deployment testing (e.g. with Docker).
+- Software development cycle with JavaScript. 
+- Behaviour driven development and unit testing (e.g. with Mocha)
+- Larger-scale integration testing
+- Continuous integration strategies (e.g. with Travis). 
+- System and deployment testing (e.g. with Docker).
 
 ### Presenters
 
-Emir Demirdag
-Markus Sosnowski
-Panagiota Yeti Revithi
-Yanko Sabev
+- Emir Demirdag
+- Markus Sosnowski
+- Panagiota Yeti Revithi
+- Yanko Sabev
 
 
