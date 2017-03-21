@@ -16,4 +16,8 @@ This repo is used for "Continuous Integration and Testing with JavaScript" works
 - Panagiota Yeti Revithi
 - Yanko Sabev
 
+### Sample Project
+
+The sample project used in this project is from [Brian Holt](https://github.com/btholt), originally presented in a Front-end Masters workshop.
+
 
