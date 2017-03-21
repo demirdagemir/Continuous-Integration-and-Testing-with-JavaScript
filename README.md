@@ -18,6 +18,6 @@ This repo is used for "Continuous Integration and Testing with JavaScript" works
 
 ### Sample Project
 
-The sample project used in this project is from [Brian Holt](https://github.com/btholt), originally presented in a Front-end Masters workshop.
+The sample project used in this presentation is completely written by [Brian Holt](https://github.com/btholt), originally presented in a Front-end Masters workshop.
 
 
